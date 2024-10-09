@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728515982 source:c:\users\aluno\documents\codeeblocks\lista\lista.cpp
+	"lista.h"
+
+1728513601 c:\users\aluno\documents\codeeblocks\lista\lista.h
+	<iostream>
+	<string>
+	<list>
+	<algorithm>
+
+1728516019 source:c:\users\aluno\documents\codeeblocks\lista\main.cpp
+	"lista.h"
+
